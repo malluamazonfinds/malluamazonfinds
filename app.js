@@ -30,7 +30,7 @@ function makeClickable(div){
         window.location.href= div.getAttribute('data-link');
     });
 }
-addProduct(678,"1.jpeg","product 1","/action-chcek");
+addProduct(678,"card1img.jpeg","product 1","/action-chcek");
 addProduct(456,"card1img.jpeg","product 2","/action-chcek");
 addProduct(323,"card1img.jpeg","product 3","/action-chcek");
 addProduct(675,"card1img.jpeg","product 4","/action-chcek");
