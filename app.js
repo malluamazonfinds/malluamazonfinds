@@ -30,11 +30,11 @@ function makeClickable(div){
         window.location.href= div.getAttribute('data-link');
     });
 }
-addProduct(678,"./Assets/card1img.jpeg","product 1","/action-chcek");
-addProduct(456,"./Assets/card1img.jpeg","product 2","/action-chcek");
-addProduct(323,"./Assets/card1img.jpeg","product 3","/action-chcek");
-addProduct(675,"./Assets/card1img.jpeg","product 4","/action-chcek");
-addProduct(345,"./Assets/card1img.jpeg","product 5","/action-chcek");
+addProduct(678,"card1img.jpeg","product 1","/action-chcek");
+addProduct(456,"card1img.jpeg","product 2","/action-chcek");
+addProduct(323,"card1img.jpeg","product 3","/action-chcek");
+addProduct(675,"card1img.jpeg","product 4","/action-chcek");
+addProduct(345,"card1img.jpeg","product 5","/action-chcek");
 let input = document.querySelector("#search");
 
 const search = ()=>{
