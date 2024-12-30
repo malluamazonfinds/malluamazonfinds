@@ -30,7 +30,7 @@ function makeClickable(div){
         window.location.href= div.getAttribute('data-link');
     });
 }
-addProduct(100,"100.jpg","Perfume Atomizer Bottle","https://amzn.to/41UlTXZ");
+addProduct(100,"100.jpg","Perfume Atomizer Bottle","https://amzn.to/3Pg7aPK");
 
 let input = document.querySelector("#search");
 
