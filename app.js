@@ -31,10 +31,7 @@ function makeClickable(div){
     });
 }
 addProduct(100,"100.jpg","Perfume Atomizer Bottle","https://amzn.to/41UlTXZ");
-addProduct(456,"card1img.jpeg","product 2","/action-chcek");
-addProduct(323,"card1img.jpeg","product 3","/action-chcek");
-addProduct(675,"card1img.jpeg","product 4","/action-chcek");
-addProduct(345,"card1img.jpeg","product 5","/action-chcek");
+
 let input = document.querySelector("#search");
 
 const search = ()=>{
