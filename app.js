@@ -31,6 +31,7 @@ function makeClickable(div){
     });
 }
 addProduct(100,"100.jpg","Perfume Atomizer Bottle","https://amzn.to/3Pg7aPK");
+addProduct(101,"101.jpg","rotating kitchen spice organizer","https://amzn.to/3DP9URE");
 
 let input = document.querySelector("#search");
 
